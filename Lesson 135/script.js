@@ -1,5 +1,5 @@
 // Lesson 135 - Exercise: DOM Events - Updated Shopping List
-// 2021/01/24 - Rikki Jones  || This took almost 4 hours to complete...
+// 2021/01/24 - Rikki Jones
 
 var btnAddItem = document.getElementById("enter");
 var inputItemName = document.getElementById("userinput");
